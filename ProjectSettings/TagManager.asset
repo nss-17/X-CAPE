@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 309441729
+    locked: 0
+  - name: block
+    uniqueID: 4155083139
+    locked: 0
+  - name: goal
+    uniqueID: 1851605319
+    locked: 0
+  - name: key
+    uniqueID: 363937761
+    locked: 0
+  - name: enemy
+    uniqueID: 2378145133
+    locked: 0
+  - name: player
+    uniqueID: 957000059
+    locked: 0
